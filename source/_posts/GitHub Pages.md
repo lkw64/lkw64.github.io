@@ -1,8 +1,11 @@
 ---
 title: GitHub Pages
+toc: true
+feature: ../images/zhwdm.png
 ---
 ## Websites for you and your projects.
 Hosted directly from your [GitHub repository](https://github.com/). Just edit, push, and your changes are live.
+<!--more-->
 ## What is GitHub Pages?
 #### Ready to get started? Build your own site from scratch or generate one for your project.
 You get site per GitHub account and organization, and unlimited project sites. Let's get started.

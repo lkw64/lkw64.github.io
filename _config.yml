@@ -78,6 +78,6 @@ theme: freemind
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:lkw64/lkw64.github.io.git
+  repo: https://github.com/lkw64/lkw64.github.io
   branch: gh-pages
   message:
